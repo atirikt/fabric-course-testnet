@@ -1,0 +1,1 @@
+[31m2021-07-15 12:48:05.126 UTC [main] InitCmd -> ERRO 001[0m Fatal error when initializing core config : error when reading core config file: Config File "core" Not Found in "[/home/vagrant/mount/network/scripts]"
